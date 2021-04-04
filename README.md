@@ -1,7 +1,6 @@
 # ASSOCIATION RULE LEARNING
 
-  Association Rule Learning is a rule based algorithm. It is discovering pattern of items, products or movies. The most commonly used association analysis algorithm is Apriori.
-  Let's dive into Apriori metrics.
+   Association Rule Learning is a rule based algorithm. It is discovering pattern of items, products or movies. The most commonly used association analysis algorithm is Apriori. Let's dive into Apriori metrics.
 
 Antecedents and Consequent
 
@@ -9,7 +8,7 @@ Antecedents and Consequent
 
 Antecedent Support
 
-   Probability of antecedent observed alone in all market
+  Probability of antecedent observed alone in all market
 
 Consequent Support
 
